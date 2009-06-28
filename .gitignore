@@ -1,2 +1,4 @@
 .DS_Store
 zProVerbs.tmproj
+build/Debug
+build/zProVerb.build
