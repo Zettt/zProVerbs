@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6DDE85740FF7E0C000BF53CD /* zProVerbs */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* zProVerbs */;
+		codeSenseManager = 6DDE857B0FF7E0C200BF53CD /* Code sense */;
+		executables = (
+			6DDE85740FF7E0C000BF53CD /* zProVerbs */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 267903191;
+			PBXWorkspaceStateSaveDate = 267903191;
+		};
+		sourceControlManager = 6DDE857A0FF7E0C200BF53CD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6DDE85740FF7E0C000BF53CD /* zProVerbs */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = zProVerbs;
+		sourceDirectories = (
+		);
+	};
+	6DDE857A0FF7E0C200BF53CD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	6DDE857B0FF7E0C200BF53CD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F960486AA7600D96B5E /* zProVerbs */ = {
+		activeExec = 0;
+		executables = (
+			6DDE85740FF7E0C000BF53CD /* zProVerbs */,
+		);
+	};
+}
